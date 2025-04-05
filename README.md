@@ -105,4 +105,7 @@ Visualized in a bar chart, showing features with the strongest impact on predict
 ---
 
 ## OUTPUT
-![task4_output](https://github.com/user-attachments/assets/2f6bf237-48e8-4e45-90d9-82b249758d8f)
+![task4_output](https://github.com/user-attachments/assets/8278b662-f92d-4466-bfac-b0e71a1e1a70)
+
+![task_4_ouput_2](https://github.com/user-attachments/assets/23e5a6c9-d028-48c4-994d-70dcd8e53f05)
+
